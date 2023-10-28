@@ -11,19 +11,19 @@
 	<function>
 		<name>inrole</name>
 		<function-class>cz.geek.taglib.Functions</function-class>
-		<function-signature>boolean inrole(javax.servlet.http.HttpServletRequest, java.lang.String)</function-signature>
+		<function-signature>boolean inrole(jakarta.servlet.http.HttpServletRequest, java.lang.String)</function-signature>
 	</function>
 
 	<function>
 		<name>inrole2</name>
 		<function-class>cz.geek.taglib.Functions</function-class>
-		<function-signature>boolean inrole2(javax.servlet.http.HttpServletRequest, java.lang.String, java.lang.String)</function-signature>
+		<function-signature>boolean inrole2(jakarta.servlet.http.HttpServletRequest, java.lang.String, java.lang.String)</function-signature>
 	</function>
 
 	<function>
 		<name>inrole3</name>
 		<function-class>cz.geek.taglib.Functions</function-class>
-		<function-signature>boolean inrole3(javax.servlet.http.HttpServletRequest, java.lang.String, java.lang.String, java.lang.String)</function-signature>
+		<function-signature>boolean inrole3(jakarta.servlet.http.HttpServletRequest, java.lang.String, java.lang.String, java.lang.String)</function-signature>
 	</function>
 
 	<function>

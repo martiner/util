@@ -1,7 +1,7 @@
 package cz.geek.taglib;
 
 import java.util.Collection;
-import javax.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletRequest;
 
 public class Functions {
 	public static boolean isinrole(HttpServletRequest req, String[] role) {
